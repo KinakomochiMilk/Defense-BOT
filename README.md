@@ -49,8 +49,6 @@ python main.py
 
 ## ライセンス
 
-## ライセンス
-
 MIT License
 
 詳細は `LICENSE` ファイルを参照してください。
